@@ -1,0 +1,31 @@
+Front,Back
+UNH,Message Header - Starts every EDI message and identifies the message type and version
+UNT,Message Trailer - Ends every EDI message and contains the total number of segments
+BGM,Beginning of Message - Contains the document type and reference number (e.g. invoice number order number)
+DTM,Date/Time/Period - Specifies dates and times (message date delivery date contract date etc.)
+PAI,Payment Instructions - Specifies how payment should be made (e.g. bank account transfer)
+RFF,Reference - Contains reference numbers like purchase orders contracts VAT numbers price lists
+NAD,Name and Address - Identifies parties in the transaction (buyer supplier delivery party) with their GLN codes
+CUX,Currencies - Specifies the currencies used and exchange rates
+PAT,Payment Terms - Defines payment conditions like payment period and discount terms
+PCD,Percentage Details - Contains percentage information for discounts allowances or charges
+ALC,Allowance or Charge - Specifies additional charges (like freight) or allowances (like discounts)
+MOA,Monetary Amount - Contains monetary values (line amounts tax amounts totals etc.)
+TAX,Duty/Tax/Fee Details - Specifies tax information including VAT rates and tax amounts
+LIN,Line Item - Starts a new product line in the order or invoice contains product identification
+QTY,Quantity - Specifies quantities (ordered delivered invoiced) with units of measure
+PRI,Price Details - Contains pricing information (unit prices gross/net prices)
+UNS,Section Control - Separates the detail section from the summary section in a message
+CNT,Control Total - Provides control totals like the number of line items in the message
+ALI,Additional Information - Provides additional conditions or information that applies to the entire message
+FTX,Free Text - Contains free text information that is mutually defined between trading partners
+CTA,Contact Information - Specifies contact person details for the transaction
+COM,Communication Contact - Contains communication details like telephone numbers or email addresses
+TDT,Transport Details - Specifies transportation information (mode of transport carrier details)
+TOD,Terms of Delivery - Defines delivery terms like CIF (Cost Insurance Freight) FOB etc.
+LOC,Place/Location Identification - Identifies specific locations (delivery points ports warehouses)
+PIA,Additional Product ID - Provides alternative product identification codes (buyer's part numbers etc.)
+IMD,Item Description - Contains descriptive information about the product or service
+PAC,Package - Describes packaging information including package types and quantities
+PCI,Package Identification - Contains specific package marking or identification requirements
+MOA Qualifiers,"79: VAT Exclusive Amount<br>86: Message Total Amount<br>124: Tax Amount<br>125: Taxable Amount<br>129: Amount Subject to Payment Discount<br>131: Allowances/Charges Amount<br>176: Total Tax Amount<br>203: Line Item Amount"
