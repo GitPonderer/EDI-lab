@@ -1,0 +1,21 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:54 PM
+SeverityDescription=Info
+OriginDescription=System
+CategoryDescription=Database
+TypeDescription=Database (creation)
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504514957
+Severity=1
+Origin=1
+Type=501
+EventId=7d2373fd-a37b-4347-ac3b-cca57a045920
+
+
+[Summary]
+The runtime database has been created successfully
+
+[Details]
+
+

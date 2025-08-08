@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\bin\Debug\EDINetDemo.exe.config
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\bin\Debug\EDINetDemo.exe
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\bin\Debug\EDINetDemo.pdb
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\bin\Debug\indice.Edi.dll
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\bin\Debug\indice.Edi.pdb
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\bin\Debug\indice.Edi.xml
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\obj\Debug\EDINetDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\obj\Debug\EDINetDemo.csproj.CopyComplete
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\obj\Debug\EDINetDemo.exe
+C:\Users\Administrator\source\repos\EDINetDemo\EDINetDemo\obj\Debug\EDINetDemo.pdb

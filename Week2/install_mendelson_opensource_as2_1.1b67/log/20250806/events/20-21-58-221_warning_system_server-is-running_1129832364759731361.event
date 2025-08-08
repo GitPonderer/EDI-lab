@@ -1,0 +1,42 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:58 PM
+SeverityDescription=Warning
+OriginDescription=System
+CategoryDescription=Server components
+TypeDescription=Server is running
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504518221
+Severity=2
+Origin=1
+Type=102
+EventId=b726c903-e68c-4d55-83dc-64477cdbce18
+
+
+[Summary]
+mendelson opensource AS2 1.1 build 67 startup in 3762 ms.
+
+[Details]
+Warning: There has been found 2 configuration issues during server startup.
+*Setup min 8GB heap memory for the server process (6147.38 MB)
+*Use of a public available test key as TLS key (key3)
+
+
+mendelson opensource AS2 1.1 build 67 parameter:
+
+Start integrated HTTP server: true
+Allow client-server connections from other hosts: false
+Heap memory: 6147.38 MB
+Java version: 17.0.16
+System user: mikolajsoltysiuk
+System id: COMMUN
+
+Used libraries:
+BouncyCastle v1.80 (Crypto API)
+MINA v2.2.4 (Client-server, IO)
+Lucene v9.11.0 d433394b292e3562e0bb34222f7dd4f307e2b8ca - 2024-06-01 14:46:45 (Log index, event index)
+SVG Batik v1.18 (SVG processing)
+Jackson v2.18.1 (JSON)
+Hikari v6.2.1 (DB pool)
+
+

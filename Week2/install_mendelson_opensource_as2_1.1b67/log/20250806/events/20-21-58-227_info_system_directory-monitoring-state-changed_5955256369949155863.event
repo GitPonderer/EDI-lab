@@ -1,0 +1,34 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:58 PM
+SeverityDescription=Info
+OriginDescription=System
+CategoryDescription=Server components
+TypeDescription=Directory monitoring state changed
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504518227
+Severity=1
+Origin=1
+Type=116
+EventId=0249c961-1bb4-48d5-b5be-663c4c2ee0f0
+
+
+[Summary]
+Directory poll manager changed poll states, 1 directories are monitored
+
+[Details]
+The following directory monitoring processes have been stopped
+------
+None
+
+
+The following directory monitoring processes have been started
+------
+[mycompany -> mendelsontest] /Users/mikolajsoltysiuk/dev/EDI-lab/Week2/install_mendelson_opensource_as2_1.1b67/messages/mendelsontest/outbox/mycompany (30s)
+
+
+Summary: Directories that are monitored:
+------
+[mycompany -> mendelsontest] /Users/mikolajsoltysiuk/dev/EDI-lab/Week2/install_mendelson_opensource_as2_1.1b67/messages/mendelsontest/outbox/mycompany (30s)
+
+

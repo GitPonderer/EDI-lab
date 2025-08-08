@@ -1,0 +1,21 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:54 PM
+SeverityDescription=Info
+OriginDescription=System
+CategoryDescription=Database
+TypeDescription=Database (creation)
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504514843
+Severity=1
+Origin=1
+Type=501
+EventId=8c3e2c90-f1aa-498c-97a7-4f4419bee6e4
+
+
+[Summary]
+The config database has been created successfully
+
+[Details]
+
+

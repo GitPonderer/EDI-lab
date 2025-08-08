@@ -1,0 +1,27 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:58 PM
+SeverityDescription=Warning
+OriginDescription=System
+CategoryDescription=Configuration
+TypeDescription=Configuration check
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504518208
+Severity=2
+Origin=1
+Type=702
+EventId=a5204ccd-0045-4bdb-9a19-a51fe03fe217
+
+
+[Summary]
+Use of a public available test key as TLS key
+
+[Details]
+(key3)
+
+mendelson provides test keys in the delivery.
+These are publicly available on the mendelson website.
+If you use these keys productively for cryptographic tasks within your data transfer, they therefore offer NO security.
+Here you can also send unsecured and unencrypted.
+If you need a trusted key, please contact mendelson support.
+

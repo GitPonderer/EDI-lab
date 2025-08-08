@@ -1,0 +1,43 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:57 PM
+SeverityDescription=Info
+OriginDescription=System
+CategoryDescription=Server components
+TypeDescription=HTTP server is running
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504517815
+Severity=1
+Origin=1
+Type=107
+EventId=4fb136a5-d6fb-470f-9cf5-779f69ca25ab
+
+
+[Summary]
+Embedded HTTP server is running (jetty 10.0.24)
+
+[Details]
+Port 8080 (NON-SSL) is bound to the adapter 0:0:0:0:0:0:0:0
+Port 8443 (SSL) is bound to the adapter 0:0:0:0:0:0:0:0
+External ip: <html> / Unknown host
+
+Full receipt URLs that are possible in the current configuration:
+http://Unknown host:8080/as2/HttpReceiver
+https://Unknown host:8443/as2/HttpReceiver
+
+Check the server state:
+http://Unknown host:8080/as2/ServerState
+
+TLS key:
+	Alias [key3]
+	Fingerprint SHA1 [DC:99:5A:83:60:A4:37:C4:30:3B:10:AC:31:4E:D9:21:16:61:36:77]
+	Serial [1512725276]
+	Valid until [Dec 6, 2027]
+
+Server requires TLS client authentication: false
+
+Currently deployed war files in the HTTP server (Servlet functionality):
+[mendelson AS2 server web monitoring] /Users/mikolajsoltysiuk/dev/EDI-lab/Week2/install_mendelson_opensource_as2_1.1b67/jetty10/webapps/webas2.war
+[mendelson AS2 receipt servlet] /Users/mikolajsoltysiuk/dev/EDI-lab/Week2/install_mendelson_opensource_as2_1.1b67/jetty10/webapps/as2.war
+
+

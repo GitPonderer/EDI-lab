@@ -1,0 +1,29 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:55 PM
+SeverityDescription=Info
+OriginDescription=System
+CategoryDescription=Server components
+TypeDescription=DB server is running
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504515623
+Severity=1
+Origin=1
+Type=104
+EventId=a583f2a1-2a7c-498c-8968-ff8c4c39613c
+
+
+[Summary]
+Embedded DB server HSQL Database Engine 2.7.4 is running
+
+[Details]
+[Server@6e0d058a]: Initiating startup sequence...
+[Server@6e0d058a]: Server socket opened successfully in 3 ms.
+[Server@6e0d058a]: Database [index=0, id=0, db=file:AS2_DB_RUNTIME, alias=runtime] opened successfully in 74 ms.
+[Server@6e0d058a]: Database [index=1, id=1, db=file:AS2_DB_CONFIG, alias=config] opened successfully in 13 ms.
+[Server@6e0d058a]: Startup sequence completed in 94 ms.
+[Server@6e0d058a]: 2025-08-06 18:21:54.707 HSQLDB server 2.7.4 is online on port 3336
+[Server@6e0d058a]: To close normally, connect and execute SHUTDOWN SQL
+[Server@6e0d058a]: From command line, use [Ctrl]+[C] to abort abruptly
+
+

@@ -1,0 +1,21 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:56 PM
+SeverityDescription=Info
+OriginDescription=System
+CategoryDescription=Server components
+TypeDescription=HTTP server startup
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504516259
+Severity=1
+Origin=1
+Type=106
+EventId=817b2d4f-5b35-401f-aecf-910218857746
+
+
+[Summary]
+Embedded HTTP server is starting
+
+[Details]
+
+

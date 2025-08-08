@@ -1,0 +1,21 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:54 PM
+SeverityDescription=Info
+OriginDescription=System
+CategoryDescription=Server components
+TypeDescription=DB server startup
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504514602
+Severity=1
+Origin=1
+Type=103
+EventId=d954c760-f9b0-44fa-aba8-1994bea37bb9
+
+
+[Summary]
+Starting embedded DB server..
+
+[Details]
+
+
