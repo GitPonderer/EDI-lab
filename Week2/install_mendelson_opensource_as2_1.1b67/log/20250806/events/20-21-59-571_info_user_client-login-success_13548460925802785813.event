@@ -1,0 +1,27 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:59 PM
+SeverityDescription=Info
+OriginDescription=User
+CategoryDescription=Client operation
+TypeDescription=Client login (success)
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504519571
+Severity=1
+Origin=2
+Type=1301
+EventId=469267b1-39ee-498a-8550-05293e3024c6
+
+
+[Summary]
+Client login success [admin] (RICH CLIENT)
+
+[Details]
+TLS protocol: TLSv1.2
+TLS cipher: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+Client ip: localhost/127.0.0.1:63101
+Client process id: 98212@Mikolajs-Laptop.local
+Client OS: Mac OS X
+Details: Authentication successful, user [admin] logged in
+
+

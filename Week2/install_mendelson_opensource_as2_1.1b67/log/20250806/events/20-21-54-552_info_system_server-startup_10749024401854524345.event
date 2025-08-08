@@ -1,0 +1,28 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:54 PM
+SeverityDescription=Info
+OriginDescription=System
+CategoryDescription=Server components
+TypeDescription=Server startup
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504514551
+Severity=1
+Origin=1
+Type=101
+EventId=2adf0b17-9017-4d44-9939-24cd73c0368f
+
+
+[Summary]
+mendelson opensource AS2 1.1 build 67 is starting
+
+[Details]
+mendelson opensource AS2 1.1 build 67 parameter:
+
+Start integrated HTTP server: true
+Allow client-server connections from other hosts: false
+Heap memory: 6147.38 MB
+Java version: 17.0.16
+System user: mikolajsoltysiuk
+System id: COMMUN
+

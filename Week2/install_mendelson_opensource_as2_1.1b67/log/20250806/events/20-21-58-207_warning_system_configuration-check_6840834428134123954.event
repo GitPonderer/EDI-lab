@@ -1,0 +1,27 @@
+[Event description]
+TimestampDescription=Aug 6, 2025, 8:21:58 PM
+SeverityDescription=Warning
+OriginDescription=System
+CategoryDescription=Configuration
+TypeDescription=Configuration check
+ProcessOriginHost=Mikolajs-Laptop.local
+User=<server_process>
+Timestamp=1754504518207
+Severity=2
+Origin=1
+Type=702
+EventId=8381e5ec-4464-45fa-ad63-bdde0b9a34e7
+
+
+[Summary]
+Setup min 8GB heap memory for the server process
+
+[Details]
+(6147.38 MB)
+
+This program is written in Java.
+Regardless of the physical equipment of your computer, you must reserve an appropriate amount of memory for the server process. In your case, you have reserved too little memory.
+Please have a look at the help (section Installation) - there you can see how to reserve the corresponding memory for which start method.
+
+In any case, please ensure that you do not reserve more memory for the server process than your system has main memory. Otherwise the software will become almost unusable because the system is constantly swapping memory to the hard disk.
+
